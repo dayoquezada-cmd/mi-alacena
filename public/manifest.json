@@ -1,0 +1,17 @@
+{
+  "name": "Mi Alacena",
+  "short_name": "Alacena",
+  "description": "Gestión inteligente de stock y gastos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
